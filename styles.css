@@ -80,7 +80,7 @@ body {
 }
 
 .toast.offline .content .icon {
-    background: #dc2626;
+    background: #ccc;
 }
 
 .content .details {
